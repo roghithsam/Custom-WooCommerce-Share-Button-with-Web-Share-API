@@ -15,3 +15,19 @@ The Web Share API allows websites to invoke the native sharing capabilities of t
 ## Installation
 
 1. Add the code to your theme's functions.php file.
+
+## Usage
+Once saved, the share button will automatically appear on your WooCommerce product pages. Users can click the button to share the current product link via supported applications on their devices.
+
+## Customization
+You can customize the appearance of the button by modifying the CSS styles included in the code. Change properties such as background-color, font-size, and border-radius to match your theme.
+
+## Browser Support
+The Web Share API is supported in most modern browsers, including:
+
+- Chrome
+- Edge
+- Safari
+- Firefox (limited support)
+
+Make sure to test the button functionality across different devices and browsers.
